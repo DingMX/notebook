@@ -1,2 +1,2 @@
-# notebook
-my notes for learning programme
+# 编程学习笔记
+##1.C/C++编程
